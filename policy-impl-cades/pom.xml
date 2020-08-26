@@ -75,7 +75,7 @@
   			<groupId>org.apache.tika</groupId>
   			<artifactId>tika-core</artifactId>
   			<!-- versões mais novas não suportam Java 7 -->
-  			<version>1.17</version>
+  			<version>1.22</version>
   			<scope>test</scope>
 		</dependency>
 		<dependency>
